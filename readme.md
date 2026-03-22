@@ -3,6 +3,10 @@
 A Bluetooth-controlled robot that detects potholes in real-time using dual ultrasonic sensors and prevents falling into large pits. The system displays live distance data and road condition on an OLED screen while ensuring safe navigation.
 
 ---
+## 🎥 Demo Video
+https://youtu.be/-6xccTbdErE
+
+---
 
 ## 📌 Features
 
